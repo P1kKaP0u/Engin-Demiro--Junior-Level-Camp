@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BlLb3FWhCFARPATQdqGAgkLRC0E7k6uAqEHjoC5GA9LJcZbzeThWaN+JtC60jNZoGhs/mbKLKHWvR2uC4p6yrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aktas\\source\\repos\\nArchitecture\\src\\demoProjects\\templateProject\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aktas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
